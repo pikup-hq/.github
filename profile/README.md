@@ -8,4 +8,4 @@ Pikup is a food delivery start-up designed to empower student entrepreneurs and 
 
 Our mission is to make campus life easier by providing a platform for student chefs to grow their businesses. While we’re launching at FUOYE Ikole Campus, we aim to expand to other universities across Nigeria soon.
 
-Join us in transforming campus dining and supporting student talent!
+Join us in transforming food delivery on nigerian campuses and supporting student talent!
